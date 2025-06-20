@@ -12,13 +12,6 @@ export const routes = {
     icon: 'Grid3X3',
     component: FloorView
   },
-  reservations: {
-    id: 'reservations',
-    label: 'Reservations',
-    path: '/reservations',
-    icon: 'Calendar',
-    component: Reservations
-  },
   orders: {
     id: 'orders',
     label: 'Orders',
