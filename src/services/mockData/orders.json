@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "tableId": "2",
+    "items": [
+      { "name": "Caesar Salad", "price": 12.99, "quantity": 2 },
+      { "name": "Grilled Salmon", "price": 24.99, "quantity": 1 },
+      { "name": "Ribeye Steak", "price": 32.99, "quantity": 1 }
+    ],
+    "status": "preparing",
+    "createdAt": "2024-01-15T18:45:00Z",
+    "total": 83.96,
+    "serverId": "server-1"
+  },
+  {
+    "Id": 2,
+    "tableId": "5",
+    "items": [
+      { "name": "Appetizer Platter", "price": 18.99, "quantity": 1 },
+      { "name": "Chicken Parmesan", "price": 19.99, "quantity": 3 },
+      { "name": "Pasta Primavera", "price": 16.99, "quantity": 2 },
+      { "name": "House Wine", "price": 8.99, "quantity": 2 }
+    ],
+    "status": "served",
+    "createdAt": "2024-01-15T19:30:00Z",
+    "total": 102.93,
+    "serverId": "server-2"
+  },
+  {
+    "Id": 3,
+    "tableId": "7",
+    "items": [
+      { "name": "Soup of the Day", "price": 7.99, "quantity": 1 },
+      { "name": "Fish and Chips", "price": 17.99, "quantity": 2 },
+      { "name": "Craft Beer", "price": 6.99, "quantity": 2 }
+    ],
+    "status": "ordered",
+    "createdAt": "2024-01-15T20:15:00Z",
+    "total": 57.95,
+    "serverId": "server-1"
+  }
+]

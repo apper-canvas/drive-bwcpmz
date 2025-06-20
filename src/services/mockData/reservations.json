@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "customerName": "John Smith",
+    "phone": "(555) 123-4567",
+    "partySize": 4,
+    "dateTime": "2024-01-15T19:30:00Z",
+    "tableId": "3",
+    "status": "confirmed",
+    "notes": "Anniversary dinner"
+  },
+  {
+    "Id": 2,
+    "customerName": "Sarah Johnson",
+    "phone": "(555) 987-6543",
+    "partySize": 2,
+    "dateTime": "2024-01-15T20:30:00Z",
+    "tableId": null,
+    "status": "pending",
+    "notes": "Window seat preferred"
+  },
+  {
+    "Id": 3,
+    "customerName": "Mike Wilson",
+    "phone": "(555) 456-7890",
+    "partySize": 6,
+    "dateTime": "2024-01-16T18:00:00Z",
+    "tableId": null,
+    "status": "confirmed",
+    "notes": "Business dinner"
+  },
+  {
+    "Id": 4,
+    "customerName": "Emily Davis",
+    "phone": "(555) 321-9876",
+    "partySize": 3,
+    "dateTime": "1/16/2024 7:00:00 PMZ",
+    "tableId": null,
+    "status": "confirmed",
+    "notes": "Birthday celebration"
+  },
+  {
+    "Id": 5,
+    "customerName": "Robert Brown",
+    "phone": "(555) 654-3210",
+    "partySize": 8,
+    "dateTime": "2024-01-16T20:00:00Z",
+    "tableId": null,
+    "status": "pending",
+    "notes": "Large group, needs space"
+  }
+]

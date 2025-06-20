@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "number": 1,
+    "capacity": 4,
+    "status": "available",
+    "currentPartySize": 0,
+    "seatedAt": null,
+    "serverId": null,
+    "position": { "x": 1, "y": 1 }
+  },
+  {
+    "Id": 2,
+    "number": 2,
+    "capacity": 2,
+    "status": "occupied",
+    "currentPartySize": 2,
+    "seatedAt": "2024-01-15T18:30:00Z",
+    "serverId": "server-1",
+    "position": { "x": 3, "y": 1 }
+  },
+  {
+    "Id": 3,
+    "number": 3,
+    "capacity": 6,
+    "status": "reserved",
+    "currentPartySize": 0,
+    "seatedAt": null,
+    "serverId": null,
+    "position": { "x": 5, "y": 1 }
+  },
+  {
+    "Id": 4,
+    "number": 4,
+    "capacity": 4,
+    "status": "cleaning",
+    "currentPartySize": 0,
+    "seatedAt": null,
+    "serverId": null,
+    "position": { "x": 1, "y": 3 }
+  },
+  {
+    "Id": 5,
+    "number": 5,
+    "capacity": 8,
+    "status": "occupied",
+    "currentPartySize": 6,
+    "seatedAt": "2024-01-15T19:15:00Z",
+    "serverId": "server-2",
+    "position": { "x": 3, "y": 3 }
+  },
+  {
+    "Id": 6,
+    "number": 6,
+    "capacity": 2,
+    "status": "available",
+    "currentPartySize": 0,
+    "seatedAt": null,
+    "serverId": null,
+    "position": { "x": 5, "y": 3 }
+  },
+  {
+    "Id": 7,
+    "number": 7,
+    "capacity": 4,
+    "status": "occupied",
+    "currentPartySize": 3,
+    "seatedAt": "2024-01-15T20:00:00Z",
+    "serverId": "server-1",
+    "position": { "x": 1, "y": 5 }
+  },
+  {
+    "Id": 8,
+    "number": 8,
+    "capacity": 6,
+    "status": "available",
+    "currentPartySize": 0,
+    "seatedAt": null,
+    "serverId": null,
+    "position": { "x": 3, "y": 5 }
+  }
+]
