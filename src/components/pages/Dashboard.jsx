@@ -424,10 +424,11 @@ const handleWalkInChange = (field, value) => {
                   </Button>
                 </div>
               </div>
-            </Card>
+</Card>
           </motion.div>
         </>
       )}
+    </div>
   );
 };
 
